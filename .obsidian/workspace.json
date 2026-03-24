@@ -6,6 +6,7 @@
       {
         "id": "3fd2bf7203cce5d5",
         "type": "tabs",
+        "dimension": 15.717722534081796,
         "children": [
           {
             "id": "967dd4c075f58204",
@@ -19,6 +20,25 @@
               },
               "icon": "lucide-file",
               "title": "Tower Defense"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3216687cbf2d2e90",
+        "type": "tabs",
+        "dimension": 84.2822774659182,
+        "children": [
+          {
+            "id": "62a898328fd293ca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-24 12.51.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-24 12.51.14.excalidraw"
             }
           }
         ]
@@ -184,14 +204,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1c05b34fe6072a0f",
+  "active": "62a898328fd293ca",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-03-24 08.50.31.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-24 12.51.14.excalidraw.md",
+    "Tower Defense.md",
     "ObsidianVault/README.md",
     "ObsidianVault",
     "README.md",
     "Welcome.md",
-    "Tower Defense.md",
-    "Excalidraw/Drawing 2026-03-24 08.50.31.excalidraw.md",
     "Excalidraw"
   ]
 }
