@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f99ec4e0425fd98",
-        "type": "tabs",
-        "dimension": 78.71951219512195,
-        "children": [
-          {
-            "id": "47002c9a36ebed54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "3fd2bf7203cce5d5",
         "type": "tabs",
-        "dimension": 21.28048780487805,
         "children": [
           {
             "id": "967dd4c075f58204",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Tower Defense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tower Defense"
             }
           }
         ]
@@ -198,7 +184,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "967dd4c075f58204",
+  "active": "1c05b34fe6072a0f",
   "lastOpenFiles": [
     "ObsidianVault/README.md",
     "ObsidianVault",

@@ -13,5 +13,4 @@
 		- Hold 2 towers
 		- Hold 2 powerups
 		- Faster placement speed
-		- 
-- 
+		- Larger powerup range
