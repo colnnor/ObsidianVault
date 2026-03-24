@@ -1,0 +1,17 @@
+- Magic themed
+- Spells flow down river from wall to center
+	- Tower spells
+	- Powerup spells
+- Rivers are the borders that separate each team's regions
+	- One shared river and one non-shared
+- Creeps 
+	- Spawn at the wall and funnel towards the center
+- Inventory
+	- Each base player can hold one tower spell and one powerup spell
+- Teams of two players
+	- Each player could have an affinity for certain things
+		- Hold 2 towers
+		- Hold 2 powerups
+		- Faster placement speed
+		- 
+- 
